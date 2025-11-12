@@ -1,5 +1,9 @@
 # Changelog
 
+## <small>0.7.1 (2025-11-12)</small>
+
+* fix: resolve race condition crash when rendering multiple DotLottie components (#31) ([438e868](https://github.com/LottieFiles/dotlottie-react-native/commit/438e868)), closes [#31](https://github.com/LottieFiles/dotlottie-react-native/issues/31)
+
 ## 0.7.0 (2025-10-22)
 
 * chore: remove unit tests step from release workflow (#27) ([3b64b6d](https://github.com/LottieFiles/dotlottie-react-native/commit/3b64b6d)), closes [#27](https://github.com/LottieFiles/dotlottie-react-native/issues/27)
