@@ -1,5 +1,10 @@
 # Changelog
 
+## <small>0.7.2 (2026-03-13)</small>
+
+* fix: migrate release workflow to OIDC trusted publishing (#38) ([af11e57](https://github.com/LottieFiles/dotlottie-react-native/commit/af11e57)), closes [#38](https://github.com/LottieFiles/dotlottie-react-native/issues/38)
+* fix(ios): correct stateMachineUnsubscribe method name and signature (#30) ([cc0a738](https://github.com/LottieFiles/dotlottie-react-native/commit/cc0a738)), closes [#30](https://github.com/LottieFiles/dotlottie-react-native/issues/30)
+
 ## <small>0.7.1 (2025-11-12)</small>
 
 * fix: resolve race condition crash when rendering multiple DotLottie components (#31) ([438e868](https://github.com/LottieFiles/dotlottie-react-native/commit/438e868)), closes [#31](https://github.com/LottieFiles/dotlottie-react-native/issues/31)
