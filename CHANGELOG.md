@@ -1,5 +1,9 @@
 # Changelog
 
+## <small>0.7.3 (2026-03-14)</small>
+
+* fix: add number to source prop type to support require() assets (#40) ([1d4a40f](https://github.com/LottieFiles/dotlottie-react-native/commit/1d4a40f)), closes [#40](https://github.com/LottieFiles/dotlottie-react-native/issues/40) [#39](https://github.com/LottieFiles/dotlottie-react-native/issues/39)
+
 ## <small>0.7.2 (2026-03-13)</small>
 
 * fix: migrate release workflow to OIDC trusted publishing (#38) ([af11e57](https://github.com/LottieFiles/dotlottie-react-native/commit/af11e57)), closes [#38](https://github.com/LottieFiles/dotlottie-react-native/issues/38)
