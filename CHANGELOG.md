@@ -1,5 +1,9 @@
 # Changelog
 
+## <small>0.7.4 (2026-03-17)</small>
+
+* chore(deps): update dotlottie react:0.18.7, android:0.13.2, ios: 0.14 (#41) ([6bf43f7](https://github.com/LottieFiles/dotlottie-react-native/commit/6bf43f7)), closes [#41](https://github.com/LottieFiles/dotlottie-react-native/issues/41)
+
 ## <small>0.7.3 (2026-03-14)</small>
 
 * fix: add number to source prop type to support require() assets (#40) ([1d4a40f](https://github.com/LottieFiles/dotlottie-react-native/commit/1d4a40f)), closes [#40](https://github.com/LottieFiles/dotlottie-react-native/issues/40) [#39](https://github.com/LottieFiles/dotlottie-react-native/issues/39)
