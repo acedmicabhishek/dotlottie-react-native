@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.8.0 (2026-03-31)
+
+* feat: add OpenGL ES renderer support for Android (#42) ([08abe4b](https://github.com/LottieFiles/dotlottie-react-native/commit/08abe4b)), closes [#42](https://github.com/LottieFiles/dotlottie-react-native/issues/42)
+
 ## <small>0.7.4 (2026-03-17)</small>
 
 * chore(deps): update dotlottie react:0.18.7, android:0.13.2, ios: 0.14 (#41) ([6bf43f7](https://github.com/LottieFiles/dotlottie-react-native/commit/6bf43f7)), closes [#41](https://github.com/LottieFiles/dotlottie-react-native/issues/41)
