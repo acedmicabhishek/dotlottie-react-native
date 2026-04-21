@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.9.0 (2026-04-21)
+
+* chore(deps): 🔧 bump dotlottie-android to 0.13.6 (#46) ([86ee000](https://github.com/LottieFiles/dotlottie-react-native/commit/86ee000)), closes [#46](https://github.com/LottieFiles/dotlottie-react-native/issues/46) [#45](https://github.com/LottieFiles/dotlottie-react-native/issues/45)
+* ci(docs): 🎡 fixed notify-docs (#44) ([03874fa](https://github.com/LottieFiles/dotlottie-react-native/commit/03874fa)), closes [#44](https://github.com/LottieFiles/dotlottie-react-native/issues/44)
+* fix: 🐛 ci name ([ea4a026](https://github.com/LottieFiles/dotlottie-react-native/commit/ea4a026))
+* feat(ci): 🎸 notify docs update on release ([abcb147](https://github.com/LottieFiles/dotlottie-react-native/commit/abcb147))
+
 ## 0.8.0 (2026-03-31)
 
 * feat: add OpenGL ES renderer support for Android (#42) ([08abe4b](https://github.com/LottieFiles/dotlottie-react-native/commit/08abe4b)), closes [#42](https://github.com/LottieFiles/dotlottie-react-native/issues/42)
