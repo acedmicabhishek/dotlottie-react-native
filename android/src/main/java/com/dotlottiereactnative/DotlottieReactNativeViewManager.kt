@@ -227,8 +227,8 @@ class DotlottieReactNativeViewManager : SimpleViewManager<DotlottieReactNativeVi
   }
 
   @ReactProp(name = "playMode")
-  fun setPlayMode(view: DotlottieReactNativeView, value: Int) {
-    view.setPlayMode(value)
+  fun setPlayMode(view: DotlottieReactNativeView, value: Double) {
+    view.setPlayMode(value.toInt())
   }
 
   @ReactProp(name = "stateMachineId")
@@ -242,8 +242,8 @@ class DotlottieReactNativeViewManager : SimpleViewManager<DotlottieReactNativeVi
   }
 
   @ReactProp(name = "performanceMode")
-  fun setPerformanceMode(view: DotlottieReactNativeView, value: Int) {
-    view.setPerformanceMode(value)
+  fun setPerformanceMode(view: DotlottieReactNativeView, value: Double) {
+    view.setPerformanceMode(value.toInt())
   }
 
 
