@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
 
   s.source_files = "ios/**/*.{h,m,mm,swift}"
 
-  s.dependency 'acedmicabhishek-dotlottie-ios', :git => 'https://github.com/acedmicabhishek/dotlottie-ios.git', :branch => 'main'
+  s.dependency 'LottieFiles-dotLottie-iOS', '~> 0.14'
 
   s.swift_version = '5.0'
 
